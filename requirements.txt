@@ -1,0 +1,8 @@
+transformers==4.57.6
+accelerate==1.15.0
+fastapi==0.162.2
+uvicorn==0.54.0
+pydantic==2.14.3
+pillow==13.0.0
+requests==2.34.2
+huggingface_hub==0.36.2
